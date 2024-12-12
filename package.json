@@ -4,9 +4,9 @@
     "description": "PRABATHMD(PMD) is a Powerful Whatsapp bot.  👨‍💻❤️",
     "main": "start.js",
     "scripts": {
-        "start": "pm2 start start.js --deep-monitoring --attach --name wabot-prabathmd",
-        "stop": "pm2 stop wabot-prabathmd",
-        "restart": "pm2 restart wabot-prabathmd"
+        "start": "pm2 start start.js --deep-monitoring --attach --name wabot-prabathmd1",
+        "stop": "pm2 stop wabot-prabathmd1",
+        "restart": "pm2 restart wabot-prabathmd1"
     },
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
